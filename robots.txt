@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /includes
+
+
+Sitemap: http://localhost/xtreamholiday/sitemap.xml
